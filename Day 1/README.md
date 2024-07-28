@@ -1,4 +1,4 @@
-# Day 1: MOJO Programming for AI Development 
+# Day 1: MOJO Programming for AI Development
 
 Welcome to the **Day 1** of the MOJO Programming for AI Development course! On this day, we focus on basic concepts including variables, declarations, syntax, data types, and conditional statements in MOJO. Below you'll find a series of programs designed to help you practice and master these fundamentals.
 
@@ -7,34 +7,34 @@ Welcome to the **Day 1** of the MOJO Programming for AI Development course! On t
 Here are the programs you'll work on for Day 1, each linked to its respective `.mojo` file:
 
 1. **Evaluate all arithmetic operations.**
-   - [**1.mojo**](./day1/1.mojo)
+   - [**1.mojo**](./1.mojo)
 
 2. **Print the factorial of a number using control statements.**
-   - [**2.mojo**](./day1/2.mojo)
+   - [**2.mojo**](./2.mojo)
 
 3. **Print the 20th Fibonacci number using control statements.**
-   - [**3.mojo**](./day1/3.mojo)
+   - [**3.mojo**](./3.mojo)
 
 4. **Print the greatest of 3 numbers.**
-   - [**4.mojo**](./day1/4.mojo)
+   - [**4.mojo**](./4.mojo)
 
 5. **Print odd and even numbers from 1-100.**
-   - [**5.mojo**](./day1/5.mojo)
+   - [**5.mojo**](./5.mojo)
 
 6. **Print the substring from a given string using the slice operator and strtuple.**
-   - [**6.mojo**](./day1/6.mojo)
+   - [**6.mojo**](./6.mojo)
 
 7. **Calculate the grade of a student by reading 5 subject marks and calculating the average.**
-   - [**7.mojo**](./day1/7.mojo)
+   - [**7.mojo**](./7.mojo)
 
 8. **Read two numbers and use Boolean variables to print the relationship between the two numbers (=, <, >).**
-   - [**8.mojo**](./day1/8.mojo)
+   - [**8.mojo**](./8.mojo)
 
 9. **Evaluate an expression using the Python evaluate function in Mojo.**
-   - [**9.mojo**](./day1/9.mojo)
+   - [**9.mojo**](./9.mojo)
 
 10. **Take input from the user and display the same.**
-    - [**10.mojo**](./day1/10.mojo)
+    - [**10.mojo**](./10.mojo)
 
 ## 📝 Getting Started
 
